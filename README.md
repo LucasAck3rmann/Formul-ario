@@ -1,2 +1,2 @@
 # Formul-ario
-Formulário com foco em descobrir suas áreas e subáreas dentro da programação...
+Um formulário com questões sobre tecnologia.
